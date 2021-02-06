@@ -1,0 +1,4 @@
+asd ogrencisinin notu : 99.0 --> AA
+alperen ogrencisinin notu : 94.6 --> AA
+alperen ogrencisinin notu : 98.0 --> AA
+alp ogrencisinin notu : 99.0 --> AA
