@@ -1,0 +1,9 @@
+# Complete the evenForest function below.
+def evenForest(t_nodes, t_edges, t_from, t_to):
+    cut = 0
+    for i in reversed(t_from):
+        if t_to.count(i) % 2 == 1:
+            cut += 1
+            t_to.pop(i-2)
+    return cut
+
