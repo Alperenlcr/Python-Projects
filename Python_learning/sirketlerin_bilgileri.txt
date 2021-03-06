@@ -1,1 +1,1 @@
-sirket1,sirket2,sirket3,OUT OF WORLD/calisan11,calisan12,neww,asd.calisan21,calisan22.sss.Alperen Olcer,Kerim Olcer,Sue/100,200,0,50000000
+sirket1,sirket2,sirket3,OUT OF WORLD/calisan11,calisan12,neww,asd.calisan21,calisan22.sss.Alperen Olcer,Olcer,Sue/100,200,0,50000000
