@@ -1,0 +1,18 @@
+
+once dosya okuma fonksiyonundan var olan kişiler dict dizisine kaydediliyor kod içinde
+sifre almaya kadar bu işlem var
+şifre alma kullanıcı girişi için var. orda da kontrol ediliyor az önce okduğumuz verilerden kişinin varlığı
+olay menu fonksiyonunda donuyor. içinde başka fonksiyonları çağırıyor
+hazır burdayken ; menude islem bitince yani cikis yapıldığında dosya_yazma ya giriliyor ve guncellenen dict dizisi
+kaydediliyor dosyaya
+menu var tercihlere gore dongu devam ediyor
+ Hesap bilgisi sorgulama da veriler aranıyor kisi bulunduğunda guncel bilgileri ekrana yazdırılıyor
+ 
+ Hesap bilgisi degistirme de kullanıcı isteği bilgisini değiştirebiliyor kartno hariç
+ Hesap silme kullanıcıyı dict dizisinden ve dosyadan siliyor
+ Para yatirma 'da kullanıcı bilgisi bulunup yatırılan para miktarina göre parası arttırılıyor
+Para cekme de aynı mantik burda azaltılıyor. ama burda olmayan parayı da çekemiyor kontrol var onun için
+
+Havale islemi burda başka bir banka kartı isteniyor once, verilerde var mı diye bakiliyor, eger varsa gonderilicek para mikltari isteniyor, eğer o da varsa (yani var olan parası yeterli ise) transfer yapılıyor, para miktarları ona göre azalıp artıyor, guncelleniyor.
+Cikis da da çıkış yapılıyor . programı cıkışa basmadan kapatırsanız o çalıştırmanız kaydedilmiyor.
+
